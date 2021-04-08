@@ -3,7 +3,7 @@
 Badsploit is a simple framework made with bash which enables you to connect to devices with ADB (andriod debug bridge)
 and control them remotely.
 
-# Requirments
+# Requirements
 
 1. A system with bash 
 2. ADB installed in the system 
