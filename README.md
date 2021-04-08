@@ -22,4 +22,4 @@ You can find me on instagram @_kavi.gihan
 
 # DISCLAIMER
 
-Use this ethically !! Dont use this to harm anyones privacy
+Use this ethically !! Dont use this to harm anyone's privacy
