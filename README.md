@@ -16,6 +16,9 @@ and control them remotely.
 3. Give required permissions ` chmod +x badsploit `
 4. Then you can run the scipt with `./badsploit`
 
+# Contact
+
+You can find me on instagram @_kavi.gihan
 
 # DISCLAIMER
 
