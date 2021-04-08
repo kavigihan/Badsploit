@@ -174,7 +174,7 @@ elif [[ $what == "help" ]]; then
 	echo "[?] Use 'list' command to get the available commands"
 
 elif [[ $what == "0" ]]; then
-	echo "Have a nice day asshole"
+	echo "Have a nice day. "
 	unset $running
 	running=="false"
 else	
