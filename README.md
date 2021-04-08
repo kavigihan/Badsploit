@@ -9,7 +9,7 @@ and control them remotely.
 2. ADB installed in the system 
     REFER : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiTwfS52O7vAhUOVH0KHQ1dAFAQFjAAegQIBBAD&url=https%3A%2F%2Fwww.xda-developers.com%2Finstall-adb-windows-macos-linux%2F&usg=AOvVaw31VI6QWKXtiXVRQn2tkOll 
 
-# Installtion
+# Installation
 
 1. You can either clone the repository with ` git clone https://github.com/kavigihan/Badsploit.git ` or downlaod the .zip file
 2. Go to the Badsploit directory `  cd Badsploit `
@@ -20,7 +20,6 @@ and control them remotely.
 
 Run the script, you will prompted with a list of commands.
 Use `list` command to see the available commands
-
 
 
 # Contact
