@@ -7,7 +7,7 @@ and control them remotely.
 
 1. A system with bash 
 2. ADB installed in the system 
-    REFER : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiTwfS52O7vAhUOVH0KHQ1dAFAQFjAAegQIBBAD&url=https%3A%2F%2Fwww.xda-developers.com%2Finstall-adb-windows-macos-linux%2F&usg=AOvVaw31VI6QWKXtiXVRQn2tkOll 
+    REFER : https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 # Installation
 
