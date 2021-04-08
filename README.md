@@ -16,6 +16,13 @@ and control them remotely.
 3. Give required permissions ` chmod +x badsploit.sh `
 4. Then you can run the scipt with `./badsploit.sh`
 
+# Usage
+
+Run the script, you will prompted with a list of commands.
+Use `list` command to see the available commands
+
+
+
 # Contact
 
 You can find me on instagram @_kavi.gihan
