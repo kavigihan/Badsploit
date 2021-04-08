@@ -54,20 +54,22 @@ echo " "
 
 banner(){
 clear
-
-figlet -f slant "BadSploit" |lolcat  -s 10
+echo " "
+echo "        BADSPLOIT  [ADB] v.1      "
+echo " "
 
 }
 
 banner
-echo "                           by Kavishka Gihan     " | lolcat
+
+echo "                       by Kavishka Gihan     " 
 
 list
 
 main(){
 
 echo " "
-echo "what ?"
+echo "Badsploit"
 read what
 
 
