@@ -11,7 +11,7 @@ and control them remotely.
 
 # Installtion
 
-1. You can either clone the repository with ` git clone ` or downlaod the .zip file
+1. You can either clone the repository with ` git clone https://github.com/kavigihan/Badsploit.git ` or downlaod the .zip file
 2. Go to the Badsploit directory `  cd Badsploit `
 3. Give required permissions ` chmod +x badsploit.sh `
 4. Then you can run the scipt with `./badsploit.sh`
